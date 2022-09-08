@@ -1,4 +1,4 @@
-package metz.freemarker;
+package dpastov.freemarker;
 
 import java.io.IOException;
 import java.io.StringWriter;
